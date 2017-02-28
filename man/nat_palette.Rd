@@ -10,6 +10,7 @@ nat_palette(name, n)
 \item{name}{The desired palette. One of:
 \itemize{
   \item \code{Acripeza}: The mountain katydid \emph{Acripeza reticulata}.
+  \item \code{Aix}: The mandarin duck \emph{Aix galericulata}.
   \item \code{Chrysiridia}: The Madagascan sunset moth \emph{Chrysiridia rhipheus}.
   \item \code{Coracias}: The lilac-breasted roller \emph{Coracias caudatus}.
   \item \code{Furcifur}: The panther chameleon \emph{Furcifer pardalis}.

@@ -6,6 +6,7 @@
 #' @param name The desired palette. One of:
 #' \itemize{
 #'   \item \code{Acripeza}: The mountain katydid \emph{Acripeza reticulata}.
+#'   \item \code{Aix}: The mandarin duck \emph{Aix galericulata}.
 #'   \item \code{Chrysiridia}: The Madagascan sunset moth \emph{Chrysiridia rhipheus}.
 #'   \item \code{Coracias}: The lilac-breasted roller \emph{Coracias caudatus}.
 #'   \item \code{Furcifur}: The panther chameleon \emph{Furcifer pardalis}.
@@ -43,11 +44,12 @@ nat_palette <- function(name, n) {
 
 #' Palettes
 #'
-#' Colours. Use \code{\link{nat_palette}} to build palettes.
+#' Colour list. Use \code{\link{nat_palette}} to build palettes.
 #'
 #' @export
 palettes <- list(
   Acripeza = c('#ca3703', '#0b0c07', '#2474c9', '#899273'),
+  Aix = c('#c27040', '#dba368', '#6699c8', '#6432a5', '#fd3853', '#3253ee', '#12654b'),
   Chrysiridia = c('#5e8e87', '#e38e13', '#cacb39', '#3579f0', '#793af3', '#aa2132'),
   Coracias = c('#231fca', '#7ef7fb', '#627054', '#875b5d', '#e7e1cc'),
   Delias = c('#fb2d15', '#312c32', '#fdd633', '#e4e2f0'),

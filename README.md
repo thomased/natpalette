@@ -50,6 +50,20 @@ nat_palette("Acripeza")
 
 ------------------------------------------------------------------------
 
+#### Aix galericulata (mandarin duck)
+
+![](./img/aix.jpg)
+
+Photo: [Malcolm Carlaw](https://www.flickr.com/photos/lightsamples/)
+
+``` r
+nat_palette("Aix")
+```
+
+![](figs/aix-1.png)
+
+------------------------------------------------------------------------
+
 #### Furcifer pardalis (panther chameleon)
 
 ![](./img/furcifer.jpg)

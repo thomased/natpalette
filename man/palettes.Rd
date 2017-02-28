@@ -4,12 +4,12 @@
 \name{palettes}
 \alias{palettes}
 \title{Palettes}
-\format{An object of class \code{list} of length 9.}
+\format{An object of class \code{list} of length 10.}
 \usage{
 palettes
 }
 \description{
-Colours. Use \code{\link{nat_palette}} to build palettes.
+Colour list. Use \code{\link{nat_palette}} to build palettes.
 }
 \keyword{datasets}
 
