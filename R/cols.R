@@ -47,7 +47,7 @@ palettes <- list(
   Acripeza = c('#0b0c07', '#ca3703', '#2474c9', '#899273'),
   Chrysiridia = c('#5e8e87', '#e38e13', '#cacb39', '#7ae1f2', '#0827d4', '#793af3', '#aa2132'),
   Delias = c('#fb2d15', '#312c32', '#fdd633', '#e4e2f0'),
-  Maratus = c('#c2370e', '#d8b54d', '#c7621a', '#577d56', '#8ec9eb', '#d1d7ef'),
+  Maratus = c('#c2370e', '#c7621a', '#d8b54d', '#8ec9eb', '#d1d7ef'),
   Trichoglossus = c('#517b39', '#b2ba31', '#8271b7', '#fdb81d', '#cd3f35'),
   Tulipa = c('#e61229', '#ff5e20', '#d46790', '#e8b413', '#e6d0a7')
   )
