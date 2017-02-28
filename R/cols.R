@@ -10,6 +10,7 @@
 #'   \item \code{Furcifur}: The panther chameleon \emph{Furcifer pardalis}.
 #'   \item \code{Delias}: The Phillippine jezabel \emph{Delias henningia}.
 #'   \item \code{Maratus}: The peacock spider \emph{Maratus volans}.
+#'   \item \code{Synchiropus}: The mandarinfish \emph{Synchiropus splendidus}.
 #'   \item \code{Trichoglossus}: The rainbow lorikeet \emph{Trichoglossus haematodus}.
 #'   \item \code{Tulipa}: Tulips \emph{Tulipa gesneriana}.
 #'   }
@@ -50,6 +51,7 @@ palettes <- list(
   Delias = c('#fb2d15', '#312c32', '#fdd633', '#e4e2f0'),
   Furcifer = c('#a2f5fb', '#7dcc7b', '#dbcc55', '#d8894e', '#93331d'),
   Maratus = c('#c2370e', '#c7621a', '#d8b54d', '#8ec9eb', '#d1d7ef'),
+  Synchiropus = c('#00000a', '#fa7200', '#02c0fa', '#000199', '#7fd071', '#fffb02'),
   Trichoglossus = c('#517b39', '#b2ba31', '#8271b7', '#fdb81d', '#cd3f35'),
   Tulipa = c('#e61229', '#ff5e20', '#d46790', '#e8b413', '#e6d0a7')
   )

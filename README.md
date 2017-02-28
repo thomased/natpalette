@@ -92,6 +92,20 @@ nat_palette("Delias")
 
 ------------------------------------------------------------------------
 
+#### Mandarinfish (Synchiropus splendidus)
+
+![](./img/synchiropus.jpg)
+
+Photo: [Jim Trodel](https://www.flickr.com/photos/trodel/)
+
+``` r
+nat_palette("Synchiropus")
+```
+
+![](figs/synchiropus-1.png)
+
+------------------------------------------------------------------------
+
 #### Trichoglossus haematodus (rainbow lorikeet).
 
 ![](./img/trichoglossus.jpg)
