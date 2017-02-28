@@ -60,12 +60,12 @@ nat_palette("Acripeza")
 
 #### Furcifer pardalis (Panther chameleon)
 
-![](./img/furcifur.jpg)
+![](./img/furcifer.jpg)
 
 Photo: [Christopher Evans](https://www.flickr.com/photos/chris_e/)
 
 ```{r, furcifur}
-nat_palette("Furcifur")
+nat_palette("Furcifer")
 ```
 
 ----------
