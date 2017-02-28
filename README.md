@@ -1,18 +1,5 @@
----
-output:
-  md_document:
-    variant: markdown_github
----
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "figs/",
-  fig.height = 1
-)
-```
-
-## Nature's Palette
+Nature's Palette
+----------------
 
 ### 100% All-Natural Colour Palettes for R.
 
@@ -20,14 +7,15 @@ A selection of fairly impractical palettes inspired by the world in colour. Feel
 
 ### Install
 
-Development version, via devtools: 
-```R
+Development version, via devtools:
+
+``` r
 devtools::install_github("thomased/natpalette")
 ```
 
 ### Usage
 
-```{r, demo}
+``` r
 library(natpalette)
 ```
 
@@ -35,49 +23,62 @@ library(natpalette)
 
 ![Photo: [Jurgen Otto](https://www.flickr.com/photos/59431731@N05/)](./img/maratus.jpg)
 
-```{r, maratus}
+``` r
 nat_palette("Maratus")
 ```
+
+![](figs/maratus-1.png)
 
 #### Acripeza reticulata (mountain katydid)
 
 ![Photo: [Kate Umbers](http://www.kateumbers.com)](./img/acripeza.jpg)
 
-```{r, acripeza}
+``` r
 nat_palette("Acripeza")
 ```
+
+![](figs/acripeza-1.png)
 
 #### Chrysiridia rhipheus (Madagascan sunset moth)
 
 ![Photo: [Frank Vassen](https://www.flickr.com/photos/42244964@N03/)](./img/chrysiridia.jpg)
 
-```{r, chrysiridia}
+``` r
 nat_palette("Chrysiridia")
 ```
+
+![](figs/chrysiridia-1.png)
 
 #### Delias henningia (Phillippine jezabel)
 
 ![Photo: [Chris Chafer](https://www.flickr.com/photos/chris_chafer/)](./img/delias.jpg)
 
-```{r, delias}
+``` r
 nat_palette("Delias")
 ```
+
+![](figs/delias-1.png)
 
 #### Trichoglossus haematodus (rainbow lorikeet).
 
 ![Photo: [Bill Collison](https://www.flickr.com/photos/billcollison/)](./img/trichoglossus.jpg)
 
-```{r, trichoglossus}
+``` r
 nat_palette("Trichoglossus")
 ```
+
+![](figs/trichoglossus-1.png)
 
 #### Tulipa gesneriana (Tulips)
 
 ![Photo: [Matt Haughey](https://www.flickr.com/photos/mathowie/)](./img/tulipa.jpg)
 
-```{r, tulip}
+``` r
 nat_palette("Tulipa")
 ```
 
+![](figs/tulip-1.png)
+
 ### Acknowledgements
+
 With thanks to [Karthik Ram](http://inundata.org) and the excellent [wesanderson](https://github.com/karthik/wesanderson) package, from which elements of this package are derived.
