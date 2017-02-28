@@ -3,7 +3,7 @@ Nature's Palette
 
 ### 100% All-Natural Colour Palettes for R.
 
-Nothing beats natural! A selection of fairly impractical palettes inspired by the world in colour. Feel free to send along a nice image of your favourite (colourful) organism and I'll gladly include it.
+Nothing beats natural! A selection of fairly impractical palettes inspired by the world in colour. Feel free to send along a nice image of your favourite (colourful) organism and I'll weave it in.
 
 ### Install
 
@@ -16,6 +16,7 @@ devtools::install_github("thomased/natpalette")
 ### Usage
 
 ``` r
+# Boot it up
 library(natpalette)
 ```
 
@@ -46,6 +47,20 @@ nat_palette("Acripeza")
 ```
 
 ![](figs/acripeza-1.png)
+
+------------------------------------------------------------------------
+
+#### Furcifer pardalis (Panther chameleon)
+
+![](./img/furcifur.jpg)
+
+Photo: [Christopher Evans](https://www.flickr.com/photos/chris_e/)
+
+``` r
+nat_palette("Furcifur")
+```
+
+![](figs/furcifur-1.png)
 
 ------------------------------------------------------------------------
 

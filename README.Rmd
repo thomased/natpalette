@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 
 ### 100% All-Natural Colour Palettes for R.
 
-Nothing beats natural! A selection of fairly impractical palettes inspired by the world in colour. Feel free to send along a nice image of your favourite (colourful) organism and I'll gladly include it.
+Nothing beats natural! A selection of fairly impractical palettes inspired by the world in colour. Feel free to send along a nice image of your favourite (colourful) organism and I'll weave it in.
 
 ### Install
 
@@ -28,6 +28,7 @@ devtools::install_github("thomased/natpalette")
 ### Usage
 
 ```{r, demo}
+# Boot it up
 library(natpalette)
 ```
 
@@ -53,6 +54,18 @@ Photo: [Kate Umbers](http://www.kateumbers.com)
 
 ```{r, acripeza}
 nat_palette("Acripeza")
+```
+
+----------
+
+#### Furcifer pardalis (Panther chameleon)
+
+![](./img/furcifur.jpg)
+
+Photo: [Christopher Evans](https://www.flickr.com/photos/chris_e/)
+
+```{r, furcifur}
+nat_palette("Furcifur")
 ```
 
 ----------
