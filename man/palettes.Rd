@@ -4,7 +4,7 @@
 \name{palettes}
 \alias{palettes}
 \title{Palettes}
-\format{An object of class \code{list} of length 7.}
+\format{An object of class \code{list} of length 9.}
 \usage{
 palettes
 }

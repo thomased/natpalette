@@ -11,9 +11,11 @@ nat_palette(name, n)
 \itemize{
   \item \code{Acripeza}: The mountain katydid \emph{Acripeza reticulata}.
   \item \code{Chrysiridia}: The Madagascan sunset moth \emph{Chrysiridia rhipheus}.
+  \item \code{Coracias}: The lilac-breasted roller \emph{Coracias caudatus}.
   \item \code{Furcifur}: The panther chameleon \emph{Furcifer pardalis}.
   \item \code{Delias}: The Phillippine jezabel \emph{Delias henningia}.
   \item \code{Maratus}: The peacock spider \emph{Maratus volans}.
+  \item \code{Synchiropus}: The mandarinfish \emph{Synchiropus splendidus}.
   \item \code{Trichoglossus}: The rainbow lorikeet \emph{Trichoglossus haematodus}.
   \item \code{Tulipa}: Tulips \emph{Tulipa gesneriana}.
   }}

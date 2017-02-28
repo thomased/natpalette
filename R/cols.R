@@ -7,6 +7,7 @@
 #' \itemize{
 #'   \item \code{Acripeza}: The mountain katydid \emph{Acripeza reticulata}.
 #'   \item \code{Chrysiridia}: The Madagascan sunset moth \emph{Chrysiridia rhipheus}.
+#'   \item \code{Coracias}: The lilac-breasted roller \emph{Coracias caudatus}.
 #'   \item \code{Furcifur}: The panther chameleon \emph{Furcifer pardalis}.
 #'   \item \code{Delias}: The Phillippine jezabel \emph{Delias henningia}.
 #'   \item \code{Maratus}: The peacock spider \emph{Maratus volans}.
@@ -46,8 +47,9 @@ nat_palette <- function(name, n) {
 #'
 #' @export
 palettes <- list(
-  Acripeza = c('#0b0c07', '#ca3703', '#2474c9', '#899273'),
-  Chrysiridia = c('#5e8e87', '#e38e13', '#cacb39', '#7ae1f2', '#0827d4', '#793af3', '#aa2132'),
+  Acripeza = c('#ca3703', '#0b0c07', '#2474c9', '#899273'),
+  Chrysiridia = c('#5e8e87', '#e38e13', '#cacb39', '#3579f0', '#793af3', '#aa2132'),
+  Coracias = c('#231fca', '#7ef7fb', '#627054', '#875b5d', '#e7e1cc'),
   Delias = c('#fb2d15', '#312c32', '#fdd633', '#e4e2f0'),
   Furcifer = c('#a2f5fb', '#7dcc7b', '#dbcc55', '#d8894e', '#93331d'),
   Maratus = c('#c2370e', '#c7621a', '#d8b54d', '#8ec9eb', '#d1d7ef'),

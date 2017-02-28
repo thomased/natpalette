@@ -3,7 +3,7 @@ Nature's Palette
 
 ### 100% All-Natural Colour Palettes for R.
 
-Nothing beats natural! A selection of fairly impractical palettes inspired by the world in colour. Feel free to send along a nice image of your favourite (colourful) organism and I'll weave it in.
+Nothing beats natural! A selection of (fairly impractical) palettes inspired by the world in colour. Feel free to send along a nice image of your favourite colourful organism---or suggest one, I'm out of ideas---and I'll weave it in.
 
 ### Install
 
@@ -50,7 +50,7 @@ nat_palette("Acripeza")
 
 ------------------------------------------------------------------------
 
-#### Furcifer pardalis (Panther chameleon)
+#### Furcifer pardalis (panther chameleon)
 
 ![](./img/furcifer.jpg)
 
@@ -75,6 +75,20 @@ nat_palette("Chrysiridia")
 ```
 
 ![](figs/chrysiridia-1.png)
+
+------------------------------------------------------------------------
+
+#### Coracias caudatus (lilac-breasted roller)
+
+![](./img/coracias.jpg)
+
+Photo: [Lip Kee](https://www.flickr.com/photos/lipkee/)
+
+``` r
+nat_palette("Coracias")
+```
+
+![](figs/coracias-1.png)
 
 ------------------------------------------------------------------------
 
@@ -136,4 +150,4 @@ nat_palette("Tulipa")
 
 ### Acknowledgements
 
-With thanks to [Karthik Ram](http://inundata.org) and the excellent [wesanderson](https://github.com/karthik/wesanderson) package, from which this is largely derived.
+With thanks to [Karthik Ram](http://inundata.org) and the excellent [wesanderson](https://github.com/karthik/wesanderson) package, from which much of this is derived.
