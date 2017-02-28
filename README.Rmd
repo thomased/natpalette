@@ -36,6 +36,7 @@ library(natpalette)
 #### Maratus volans (peacock spider)
 
 ![](./img/maratus.jpg)
+
 Photo: [Jurgen Otto](https://www.flickr.com/photos/59431731@N05/)
 
 ```{r, maratus}
@@ -47,47 +48,62 @@ nat_palette("Maratus")
 #### Acripeza reticulata (mountain katydid)
 
 ![](./img/acripeza.jpg)
+
 Photo: [Kate Umbers](http://www.kateumbers.com)
 
 ```{r, acripeza}
 nat_palette("Acripeza")
 ```
 
+----------
+
 #### Chrysiridia rhipheus (Madagascan sunset moth)
 
 ![](./img/chrysiridia.jpg)
+
 Photo: [Frank Vassen](https://www.flickr.com/photos/42244964@N03/)
 
 ```{r, chrysiridia}
 nat_palette("Chrysiridia")
 ```
 
+----------
+
 #### Delias henningia (Phillippine jezabel)
 
 ![](./img/delias.jpg)
+
 Photo: [Chris Chafer](https://www.flickr.com/photos/chris_chafer/)
 
 ```{r, delias}
 nat_palette("Delias")
 ```
 
+----------
+
 #### Trichoglossus haematodus (rainbow lorikeet).
 
 ![](./img/trichoglossus.jpg)
+
 Photo: [Bill Collison](https://www.flickr.com/photos/billcollison/)
 
 ```{r, trichoglossus}
 nat_palette("Trichoglossus")
 ```
 
+----------
+
 #### Tulipa gesneriana (Tulips)
 
 ![](./img/tulipa.jpg)
+
 Photo: [Matt Haughey](https://www.flickr.com/photos/mathowie/)
 
 ```{r, tulip}
 nat_palette("Tulipa")
 ```
 
+----------
+
 ### Acknowledgements
-With thanks to [Karthik Ram](http://inundata.org) and the excellent [wesanderson](https://github.com/karthik/wesanderson) package, from which elements of this package are derived.
+With thanks to [Karthik Ram](http://inundata.org) and the excellent [wesanderson](https://github.com/karthik/wesanderson) package, from which this is largely derived.

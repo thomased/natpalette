@@ -23,7 +23,9 @@ library(natpalette)
 
 #### Maratus volans (peacock spider)
 
-![](./img/maratus.jpg) Photo: [Jurgen Otto](https://www.flickr.com/photos/59431731@N05/)
+![](./img/maratus.jpg)
+
+Photo: [Jurgen Otto](https://www.flickr.com/photos/59431731@N05/)
 
 ``` r
 nat_palette("Maratus")
@@ -35,7 +37,9 @@ nat_palette("Maratus")
 
 #### Acripeza reticulata (mountain katydid)
 
-![](./img/acripeza.jpg) Photo: [Kate Umbers](http://www.kateumbers.com)
+![](./img/acripeza.jpg)
+
+Photo: [Kate Umbers](http://www.kateumbers.com)
 
 ``` r
 nat_palette("Acripeza")
@@ -43,9 +47,13 @@ nat_palette("Acripeza")
 
 ![](figs/acripeza-1.png)
 
+------------------------------------------------------------------------
+
 #### Chrysiridia rhipheus (Madagascan sunset moth)
 
-![](./img/chrysiridia.jpg) Photo: [Frank Vassen](https://www.flickr.com/photos/42244964@N03/)
+![](./img/chrysiridia.jpg)
+
+Photo: [Frank Vassen](https://www.flickr.com/photos/42244964@N03/)
 
 ``` r
 nat_palette("Chrysiridia")
@@ -53,9 +61,13 @@ nat_palette("Chrysiridia")
 
 ![](figs/chrysiridia-1.png)
 
+------------------------------------------------------------------------
+
 #### Delias henningia (Phillippine jezabel)
 
-![](./img/delias.jpg) Photo: [Chris Chafer](https://www.flickr.com/photos/chris_chafer/)
+![](./img/delias.jpg)
+
+Photo: [Chris Chafer](https://www.flickr.com/photos/chris_chafer/)
 
 ``` r
 nat_palette("Delias")
@@ -63,9 +75,13 @@ nat_palette("Delias")
 
 ![](figs/delias-1.png)
 
+------------------------------------------------------------------------
+
 #### Trichoglossus haematodus (rainbow lorikeet).
 
-![](./img/trichoglossus.jpg) Photo: [Bill Collison](https://www.flickr.com/photos/billcollison/)
+![](./img/trichoglossus.jpg)
+
+Photo: [Bill Collison](https://www.flickr.com/photos/billcollison/)
 
 ``` r
 nat_palette("Trichoglossus")
@@ -73,9 +89,13 @@ nat_palette("Trichoglossus")
 
 ![](figs/trichoglossus-1.png)
 
+------------------------------------------------------------------------
+
 #### Tulipa gesneriana (Tulips)
 
-![](./img/tulipa.jpg) Photo: [Matt Haughey](https://www.flickr.com/photos/mathowie/)
+![](./img/tulipa.jpg)
+
+Photo: [Matt Haughey](https://www.flickr.com/photos/mathowie/)
 
 ``` r
 nat_palette("Tulipa")
@@ -83,6 +103,8 @@ nat_palette("Tulipa")
 
 ![](figs/tulip-1.png)
 
+------------------------------------------------------------------------
+
 ### Acknowledgements
 
-With thanks to [Karthik Ram](http://inundata.org) and the excellent [wesanderson](https://github.com/karthik/wesanderson) package, from which elements of this package are derived.
+With thanks to [Karthik Ram](http://inundata.org) and the excellent [wesanderson](https://github.com/karthik/wesanderson) package, from which this is largely derived.
