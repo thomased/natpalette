@@ -48,7 +48,7 @@ nat_palette <- function(name, n) {
 #'
 #' @export
 palettes <- list(
-  Acripeza = c('#ca3703', '#0b0c07', '#2474c9', '#899273'),
+  Acripeza = c('#ca3703', '#0b0c07', '#2788f1', '#899273'),
   Aix = c('#c27040', '#dba368', '#6699c8', '#3253ee', '#12654b', '#6432a5', '#fd3853'),
   Chrysiridia = c('#5e8e87', '#e38e13', '#cacb39', '#3579f0', '#793af3', '#aa2132'),
   Coracias = c('#231fca', '#7ef7fb', '#627054', '#875b5d', '#e7e1cc'),
