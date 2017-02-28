@@ -3,7 +3,7 @@
 \docType{data}
 \name{palettes}
 \alias{palettes}
-\title{Palettes}
+\title{Palette list}
 \format{An object of class \code{list} of length 10.}
 \usage{
 palettes

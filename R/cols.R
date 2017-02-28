@@ -42,7 +42,7 @@ nat_palette <- function(name, n) {
   structure(out, class = 'palette', name = name)
 }
 
-#' Palettes
+#' Palette list
 #'
 #' Colour list. Use \code{\link{nat_palette}} to build palettes.
 #'
