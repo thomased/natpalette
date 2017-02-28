@@ -71,7 +71,7 @@ nat_palette("Trichoglossus")
 
 #### Tulipa gesneriana (Tulips)
 
-![Photo: [Matt Haughey](https://www.flickr.com/photos/mathowie/)](./img/tulipa.jpg)
+![](./img/tulipa.jpg) Photo: [Matt Haughey](https://www.flickr.com/photos/mathowie/)
 
 ``` r
 nat_palette("Tulipa")
