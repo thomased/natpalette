@@ -3,7 +3,7 @@ Nature's Palette
 
 ### 100% All-Natural Colour Palettes for R.
 
-A selection of fairly impractical palettes inspired by the world in colour. Feel free to send along a clear image of your favourite (colourful) organism and I'll gladly include it.
+Nothing beats natural! A selection of fairly impractical palettes inspired by the world in colour. Feel free to send along a nice image of your favourite (colourful) organism and I'll gladly include it.
 
 ### Install
 
@@ -19,9 +19,11 @@ devtools::install_github("thomased/natpalette")
 library(natpalette)
 ```
 
+------------------------------------------------------------------------
+
 #### Maratus volans (peacock spider)
 
-![Photo: [Jurgen Otto](https://www.flickr.com/photos/59431731@N05/)](./img/maratus.jpg)
+![](./img/maratus.jpg) Photo: [Jurgen Otto](https://www.flickr.com/photos/59431731@N05/)
 
 ``` r
 nat_palette("Maratus")
@@ -29,9 +31,11 @@ nat_palette("Maratus")
 
 ![](figs/maratus-1.png)
 
+------------------------------------------------------------------------
+
 #### Acripeza reticulata (mountain katydid)
 
-![Photo: [Kate Umbers](http://www.kateumbers.com)](./img/acripeza.jpg)
+![](./img/acripeza.jpg) Photo: [Kate Umbers](http://www.kateumbers.com)
 
 ``` r
 nat_palette("Acripeza")
@@ -41,7 +45,7 @@ nat_palette("Acripeza")
 
 #### Chrysiridia rhipheus (Madagascan sunset moth)
 
-![Photo: [Frank Vassen](https://www.flickr.com/photos/42244964@N03/)](./img/chrysiridia.jpg)
+![](./img/chrysiridia.jpg) Photo: [Frank Vassen](https://www.flickr.com/photos/42244964@N03/)
 
 ``` r
 nat_palette("Chrysiridia")
@@ -51,7 +55,7 @@ nat_palette("Chrysiridia")
 
 #### Delias henningia (Phillippine jezabel)
 
-![Photo: [Chris Chafer](https://www.flickr.com/photos/chris_chafer/)](./img/delias.jpg)
+![](./img/delias.jpg) Photo: [Chris Chafer](https://www.flickr.com/photos/chris_chafer/)
 
 ``` r
 nat_palette("Delias")
@@ -61,7 +65,7 @@ nat_palette("Delias")
 
 #### Trichoglossus haematodus (rainbow lorikeet).
 
-![Photo: [Bill Collison](https://www.flickr.com/photos/billcollison/)](./img/trichoglossus.jpg)
+![](./img/trichoglossus.jpg) Photo: [Bill Collison](https://www.flickr.com/photos/billcollison/)
 
 ``` r
 nat_palette("Trichoglossus")
