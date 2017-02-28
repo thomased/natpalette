@@ -2,7 +2,7 @@
 % Please edit documentation in R/cols.R
 \name{nat_palette}
 \alias{nat_palette}
-\title{A 'natural' palette generator}
+\title{A 'natural' colour palette generator}
 \usage{
 nat_palette(name, n)
 }

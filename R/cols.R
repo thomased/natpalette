@@ -1,4 +1,4 @@
-#' A 'natural' palette generator
+#' A 'natural' colour palette generator
 #'
 #' Some fairly impractical colour palettes inspired by nature.
 #'
