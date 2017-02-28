@@ -3,7 +3,7 @@ Nature's Palette
 
 ### 100% All-Natural Colour Palettes for R.
 
-Nothing beats natural! A selection of (fairly impractical) palettes inspired by the world in colour. Feel free to send along a nice image of your favourite colourful organism—or just suggest cool stuff, I'm out of ideas—and I'll weave it in.
+Nothing beats natural! A selection of questionably useful palettes inspired by the world in colour. Feel free to send along a nice image of your favourite colourful organism—or just suggest cool stuff, I'm out of ideas—and I'll weave it in.
 
 ### Install
 
