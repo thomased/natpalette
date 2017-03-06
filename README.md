@@ -1,6 +1,8 @@
 Nature's Palette
 ----------------
 
+[![cran version](http://www.r-pkg.org/badges/version/pattern)](https://cran.r-project.org/package=natpalette/) [![Travis-CI Build Status](https://travis-ci.org/thomased/pattern.png?branch=master)](https://travis-ci.org/thomased/natpalette)
+
 ### 100% All-Natural Colour Palettes for R.
 
 Nothing beats natural! A selection of questionably useful palettes inspired by the world in colour. Feel free to send along a nice image of your favourite colourful organism—or just suggest cool stuff, I'm out of ideas—and I'll weave it in.
