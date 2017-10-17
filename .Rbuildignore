@@ -1,8 +1,8 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
-img/
-figs/
+img/*
+figs/*
 README.md
 README.html
 .travis.yml
