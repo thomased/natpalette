@@ -6,3 +6,4 @@ figs/
 README.md
 README.html
 .travis.yml
+^cran-comments\.md$
