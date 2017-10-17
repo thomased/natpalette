@@ -12,4 +12,3 @@ palettes
 Colour list. Use \code{\link{nat_palette}} to build palettes.
 }
 \keyword{datasets}
-

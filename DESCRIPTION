@@ -1,7 +1,7 @@
 Package: natpalette
 Title: A Natural Palette Generator For R
 Description: Colour palettes inspired by nature.
-Date: 2017-02-28
+Date: 2017-10-17
 Version: 0.1
 Authors@R: c(person("Thomas", "White", role = c("aut", "cre"),
     email = "thomas.white026@gmail.com"))
@@ -12,4 +12,4 @@ LazyData: true
 Imports: graphics
 URL: https://github.com/thomased/natpalette
 BugReports: https://github.com/thomased/natpalette/issues
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1

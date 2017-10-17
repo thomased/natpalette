@@ -35,4 +35,3 @@ nat_palette('Tulipa')
 
 }
 \keyword{colours}
-

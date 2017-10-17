@@ -11,4 +11,3 @@ colour palettes inspired by nature
 \details{
 colour palettes inspired by nature
 }
-

@@ -23,9 +23,13 @@
 #' nat_palette('Maratus')
 #' nat_palette('Tulipa')
 #'
-nat_palette <- function(name, n) {
+nat_palette <- function(name, n){
 
-  pal <- palettes[[name]]
+  if(is.null(name))
+    pal <- NULL
+  else
+    pal <- palettes[[name]]
+
   if(is.null(pal))
     stop('No such palette.')
 

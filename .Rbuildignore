@@ -5,3 +5,4 @@ img/
 figs/
 README.md
 README.html
+.travis.yml
