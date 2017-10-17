@@ -1,7 +1,7 @@
 Nature's Palette
 ----------------
 
-[![cran version](http://www.r-pkg.org/badges/version/pattern)](https://cran.r-project.org/package=natpalette/) [![Travis-CI Build Status](https://travis-ci.org/thomased/pattern.png?branch=master)](https://travis-ci.org/thomased/natpalette)
+[![Travis-CI Build Status](https://travis-ci.org/thomased/pattern.png?branch=master)](https://travis-ci.org/thomased/natpalette)
 
 ### 100% All-Natural Colour Palettes for R.
 
